@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>hello word啊啊啊我丢这个怎么弄啊
